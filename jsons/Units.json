@@ -3,7 +3,7 @@
 		"name": "Inf Nuclear",
 		"uniqueTo": "Elf",
 		"replaces": "Archer",
-		"unitType": "Bomber",
+		"unitType": "Archery",
 		"movement": 320,
 		"strength": 3200,
 		"rangeStrength": 3200,
