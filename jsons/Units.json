@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Inf Nuclear",
+		"uniqueTo": "Elf",
+		"replaces": "Archer",
+		"unitType": "Bomber",
+		"movement": 320,
+		"strength": 3200,
+		"rangeStrength": 3200,
+		"range": 28,
+		"cost": 1,
+		"uniques": ["Nuclear weapon of Strength [28]", "Blast radius [8]"],
 	}
 ]
