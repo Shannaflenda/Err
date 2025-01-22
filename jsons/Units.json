@@ -6,7 +6,7 @@
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 3200,
-		"rangeStrength": 3200,
+		"rangedStrength": 3200,
 		"range": 28,
 		"cost": 1,
 		"uniques": ["Nuclear weapon of Strength [28]", "Blast radius [8]"],
