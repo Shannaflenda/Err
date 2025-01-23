@@ -3,8 +3,14 @@
 		"name": "Inf Exp",
 		"replaces": "Barracks",
 		"uniqueTo": "Elf",
+		"happiness": 320,
+		"production": 320,
+		"culture": 320,
+		"science": 320,
+		"food": 320,
+		"gold": 320,
 		"cost": 1,
-		"uniques": ["New [Military] units start with [30000] Experience [in this city]"],
+		"uniques": ["New [Military] units start with [32000] Experience [in this city]"],
 		"maintenance": 1,
 	}
 ]
