@@ -1,19 +1,33 @@
 
 game.png
-size: 256, 128
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Inf Exp
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Elf
   rotate: false
-  xy: 4, 4
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Inf Nuclear
   rotate: false
-  xy: 112, 4
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Infattack
+  rotate: false
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
