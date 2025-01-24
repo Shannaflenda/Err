@@ -4,13 +4,21 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Elf",
 		"happiness": 32000,
+		"cost": 1,
+		"uniques": ["New [Military] units start with [32000] Experience [in this city]"],
+		"maintenance": 1,
+	},
+	{
+		"name": "Inf Production",
+		"replaces": "Monument",
+		"uniqueTo": "Elf",
+		"happiness": 32000,
 		"production": 32000,
 		"culture": 32000,
 		"science": 32000,
 		"food": 32000,
 		"gold": 32000,
 		"cost": 1,
-		"uniques": ["New [Military] units start with [32000] Experience [in this city]"],
 		"maintenance": 1,
 	}
 ]
