@@ -10,6 +10,7 @@
 		"uniqueName": "Inf Tech",
 		"uniques": [
 			"[-100]% Unhappiness from [Population] [in all cities]",
+			"[-100]% unhappiness from the number of cities",
 			"[+320]% [Culture] [in all cities]",
 			"[+320]% [Science] [in all cities]",
 			"[+320]% [Gold] [in all cities]",
