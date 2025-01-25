@@ -20,6 +20,7 @@
 			"[+320]% Strength <vs [All] units>",
 			"[+320]% Golden Age length",
 			"[+320]% Strength for cities",
+			"Can build [All] improvements at a [+320]% rate",
 			"[All] units gain the [Infattack] promotion",
 			"[-100]% maintenance costs <for [All] units>"],
 		"cities": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
